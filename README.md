@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @KuroSys
-- 🌱 I’m currently learning C++
+⚒️ Learning C++/C
+✏️ Arch Linux / i3wm / Neovim / nnn / yadm
+🔑 GPG key: 863A0F9FA8127FA4
+
 
 <!---
 KuroSys/KuroSys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
